@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">John\'s Wallet</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="tab1_text">Payment Cards</string>
+    <string name="tab2_text">Gift Cards</string>
+    <string name="tab3_text">Loyalty Cards</string>
+</resources>
